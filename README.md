@@ -66,7 +66,7 @@ I'm an **Information Technology Undergraduate** passionate about **Full Stack De
 
 ## 🐍 Watch My Contribution Snake:
 <p align="center">
-  <img src="https://github.com/niRmana11/niRmana11/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/niRmana11/niRmana11/blob/output/github-contribution-grid-snake.svg?" />
 </p>
 
 ---
