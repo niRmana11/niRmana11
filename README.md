@@ -1,33 +1,80 @@
-### Hi there! I'm Nirmana Herath 👋  
+### Hi there, I'm Nirmana Herath! 👋
 
-🚀 **Aspiring Full Stack Developer | Java & Web Enthusiast**  
-🎓 **Undergraduate Student at SLIIT Computing Faculty**  
-💡 Passionate about coding, game development, and creating innovative software solutions.  
-📚 Always learning and exploring new technologies.  
+I'm an **Information Technology Undergraduate** passionate about **Full Stack Development, Game Development, and Software Engineering**. I enjoy building modern applications, learning new technologies, and turning ideas into reality. 💻✨
 
 ---
 
-### 🚀 Tech Stack & Skills:
-- **Languages:** Java, C++, C, JavaScript  
-- **Web Development:** HTML, CSS, React, MERN Stack, PHP  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** GitHub, Windows  
+### 🔥 About Me:
+- 🎓 **Undergraduate Student** at SLIIT Computing Faculty.
+- 🚀 Currently working on a **Movie & TV Series Browsing Website** using Java & Web Tech.
+- 📱 Learning **React, MERN Stack, and Mobile App Development (Android - Kotlin/XML)**.
+- 🌱 Exploring **backend development** and improving database skills.
+- 🎮 Passionate about **gaming & game development**.
 
 ---
 
-### 📌 Projects:
-- 🎬 **[Movie & TV Series Browsing Site](#)** – A dynamic web application for browsing movies and TV series.  
-- More projects coming soon... 🚀  
+## 🛠 Languages, Tech Stack & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,java,kotlin,c,cpp,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
-### 🏆 Certifications & Achievements:
-- ✅ **Oracle Java Certification - 1Z0-808** (Udemy)  
-- 🎯 Always working on improving my skills through hands-on projects.  
+## 📌 Projects:
+- 🎬 **[Movie & TV Series Browsing Site](#)** – A dynamic web application to explore and review your favorite shows and movies.
+- More exciting projects on the way... 🚀
+
+---
+
+## 🏆 Certifications & Achievements:
+- ✅ **Oracle Java Certification - 1Z0-808** (Udemy)
+- 🧠 Committed to self-learning and skill improvement through hands-on practice.
+
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=NirmanaHerath&show_icons=true&theme=radical" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmanaHerath&theme=radical" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmanaHerath&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NirmanaHerath&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Contributions Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmanaHerath&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Watch My Contribution Snake:
+<p align="center">
+  <img src="https://github.com/NirmanaHerath/NirmanaHerath/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nirmana-herath-459248292/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmana-herath-459248292/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/NirmanaHerath)
 
-💡 *Open to internship opportunities and collaborations!*
+---
+
+⭐ **Fun Fact:** *Love coding, gaming, and creating something awesome with every keystroke! 🚀*
