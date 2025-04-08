@@ -1,80 +1,54 @@
-### Hi there, I'm Nirmana Herath! 👋
+### Hi there! I'm Nirmana Herath 👋
 
-I'm an **Information Technology Undergraduate** passionate about **Full Stack Development, Game Development, and Software Engineering**. I enjoy building modern applications, learning new technologies, and turning ideas into reality. 💻✨
+I'm an **Aspiring Full Stack Developer** passionate about **Java, Web Development, and Game Development**.  
+Currently pursuing my **BSc (Hons) in Information Technology** at SLIIT.  
+I love building projects, learning new technologies, and creating innovative solutions. 💻🚀
 
 ---
 
 ### 🔥 About Me:
-- 🎓 **Undergraduate Student** at SLIIT Computing Faculty.
-- 🚀 Currently working on a **Movie & TV Series Browsing Website** using Java & Web Tech.
-- 📱 Learning **React, MERN Stack, and Mobile App Development (Android - Kotlin/XML)**.
-- 🌱 Exploring **backend development** and improving database skills.
-- 🎮 Passionate about **gaming & game development**.
+- 🎓 Undergraduate at **SLIIT Computing Faculty**
+- 💡 Passionate about coding and software development
+- 🌱 Currently exploring **React**, **Node.js**, and **MongoDB**
+- 🕹️ Curious about **Game Development** and interactive UI design
 
 ---
 
 ## 🛠 Languages, Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,java,kotlin,c,cpp,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,java,c,cpp,git,vscode" />
 </p>
 
 ---
 
 ## 📌 Projects:
-- 🎬 **[Movie & TV Series Browsing Site](#)** – A dynamic web application to explore and review your favorite shows and movies.
-- More exciting projects on the way... 🚀
+- 🎬 **[Movie & TV Series Browsing Site](#)** – A dynamic web application for browsing movies and TV series  
+- 🚧 More exciting projects on the way...
 
 ---
 
 ## 🏆 Certifications & Achievements:
 - ✅ **Oracle Java Certification - 1Z0-808** (Udemy)
-- 🧠 Committed to self-learning and skill improvement through hands-on practice.
+- 🧠 Constantly improving through hands-on practice and learning
 
 ---
 
-## 📈 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&theme=radical" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=radical" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=radical" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niRmana11&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Contributions Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark" />
-</p>
-
----
-
-## 🐍 Watch My Contribution Snake:
-<p align="center">
-  <img src="https://github.com/niRmana11/niRmana11/blob/output/github-contribution-grid-snake.svg?" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmana-herath-459248292/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/NirmanaHerath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmana-herath-459248292/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niRmana11)
 
 ---
 
-⭐ **Fun Fact:** *Love coding, gaming, and creating something awesome with every keystroke! 🚀*
+⭐ **Fun Fact:** *Code. Learn. Play Games. Repeat! 🎮☕*
