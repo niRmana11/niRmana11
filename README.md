@@ -37,12 +37,12 @@ I'm an **Information Technology Undergraduate** passionate about **Full Stack De
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NirmanaHerath&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&theme=radical" />
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmanaHerath&theme=radical" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=radical" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmanaHerath&layout=compact&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=radical" />
       </td>
     </tr>
   </table>
@@ -52,21 +52,21 @@ I'm an **Information Technology Undergraduate** passionate about **Full Stack De
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirmanaHerath&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=niRmana11&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Contributions Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmanaHerath&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark" />
 </p>
 
 ---
 
 ## 🐍 Watch My Contribution Snake:
 <p align="center">
-  <img src="https://github.com/NirmanaHerath/NirmanaHerath/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/niRmana11/niRmana11/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
