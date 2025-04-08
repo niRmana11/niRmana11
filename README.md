@@ -41,6 +41,13 @@ I love building projects, learning new technologies, and creating innovative sol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=tokyonight" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <!--- trophy (start) -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=niRmana11&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
 </p>
 
 ---
