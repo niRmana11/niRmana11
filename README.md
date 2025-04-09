@@ -44,16 +44,17 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&count_private=true&title_color=ff4c4c&text_color=ffcccc&icon_color=ff4c4c&bg_color=0d1117" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=niRmana11&theme=transparent&show_icons=true&count_private=true&title_color=ff4c4c&text_color=ffcccc&icon_color=ff4c4c&bg_color=0d1117" />
         <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirmana's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&hide_border=false&background=0D1117&ring=ff4c4c&fire=ff4c4c&currStreakLabel=ff4c4c&sideLabels=ffcccc&sideNums=ffcccc&dates=ffcccc" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirmana's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=transparent&hide_border=false&background=0D1117&ring=ff4c4c&fire=ff4c4c&currStreakLabel=ff4c4c&sideLabels=ffcccc&sideNums=ffcccc&dates=ffcccc" />
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=ff4c4c&text_color=ffcccc&bg_color=0d1117" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&theme=transparent&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=ff4c4c&text_color=ffcccc&bg_color=0d1117" />
       </td>
     </tr>
-  </table>
+  </table>   
 </p>
+
 
 
 ---
