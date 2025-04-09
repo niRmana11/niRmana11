@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&theme=dark&title_color=FF3C38&icon_color=FF3C38&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=dark&fire=FF3C38&currStreakLabel=FF3C38" alt="GitHub Streak" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirmana's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=radical&hide_border=false" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=dark&title_color=FF3C38&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
 </p>
