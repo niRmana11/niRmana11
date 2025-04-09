@@ -40,12 +40,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&theme=dark&title_color=FF3C38&icon_color=FF3C38&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
-  <br><br>
+  <!--- stats (start) -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=niRmana11&theme=radical&show_icons=true&count_private=true" />
+        <br><br>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirmana's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=radical&hide_border=false" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=dark&title_color=FF3C38&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
-</p>
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
 
 ---
 
