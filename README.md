@@ -44,7 +44,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=niRmana11&no-frame=true&no-bg=true&theme=monokai&title=FF3131&text=ffffff&icon=FF3131" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=niRmana11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
 
 
 ---
