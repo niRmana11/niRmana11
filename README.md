@@ -13,7 +13,8 @@ Aspiring Full Stack Developer | Java | Web | Game Dev<br>🎓 BSc (Hons) in Info
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niRmana11&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=niRmana11&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&theme=neon&layout=compact&langs_count=6)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niRmana11&theme=neon&no-frame=true&no-bg=false&margin-w=4)
