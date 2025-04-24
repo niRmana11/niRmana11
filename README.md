@@ -34,7 +34,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=niRmana11&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub+Stats&title_color=FF3131&text_color=ffffff&icon_color=FF3131&bg_color=000000" alt="GitHub Stats"/>
 
 <!-- GitHub Streak Card -->
-<img src="https://streak-stats.demolab.com?user=niRmana11&theme=custom&hide_border=false&background=000000&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=ffffff&currStreakNum=FF3131&sideNums=ffffff&sideLabels=FF3131&dates=ffffff" alt="GitHub Streak"/>
+<img src="https://your-vercel-deployment-url.vercel.app?user=niRmana11&theme=custom&hide_border=false&background=000000&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=ffffff&currStreakNum=FF3131&sideNums=ffffff&sideLabels=FF3131&dates=ffffff" alt="GitHub Streak"/>
+
 
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&langs_count=6&hide_border=false&title_color=FF3131&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
@@ -43,12 +44,14 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=niRmana11&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=niRmana11&no-frame=true&no-bg=true&theme=monokai&title=FF3131&text=ffffff&icon=FF3131" alt="GitHub Trophies"/>
+
 
 ---
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=niRmana11&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=niRmana11&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+
 
 ---
 
