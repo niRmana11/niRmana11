@@ -29,9 +29,16 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niRmana11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=niRmana11&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&theme=radical&layout=compact&langs_count=6)
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=niRmana11&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub+Stats&title_color=FF3131&text_color=ffffff&icon_color=FF3131&bg_color=000000" alt="GitHub Stats"/>
+
+<!-- GitHub Streak Card -->
+<img src="https://streak-stats.demolab.com?user=niRmana11&theme=custom&hide_border=false&background=000000&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=ffffff&currStreakNum=FF3131&sideNums=ffffff&sideLabels=FF3131&dates=ffffff" alt="GitHub Streak"/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&langs_count=6&hide_border=false&title_color=FF3131&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
+
 
 ---
 
