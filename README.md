@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3131&width=800&lines=Hey,+I’m+Nirmana+Herath;Aspiring+Full+Stack+Developer;Crafting+Code+with+Passion!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF3131&width=800&lines=Hey,+I’m+Nirmana+Herath;Aspiring+Full+Stack+Developer;Crafting+Code+with+Passion!" alt="Typing SVG" />
 </p>
+
 
 
 
