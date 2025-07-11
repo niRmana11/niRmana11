@@ -33,6 +33,10 @@
 
 ---
 
+[![Nirmana's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niRmana11)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=niRmana11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
