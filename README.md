@@ -23,17 +23,12 @@
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=niRmana11&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub+Stats&title_color=FF3131&text_color=ffffff&icon_color=FF3131&bg_color=000000" alt="GitHub Stats"/>
 
-<!-- GitHub Streak Card -->
-<img src="https://your-vercel-deployment-url.vercel.app?user=niRmana11&theme=custom&hide_border=false&background=000000&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=ffffff&currStreakNum=FF3131&sideNums=ffffff&sideLabels=FF3131&dates=ffffff" alt="GitHub Streak"/>
 
 
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&langs_count=6&hide_border=false&title_color=FF3131&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
 
 
----
-
-[![Nirmana's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niRmana11)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -44,10 +39,4 @@
 
 ---
 
-### 🔝 Top Contributed Repos
-<img src="https://github-contributor-stats.vercel.app/api?username=niRmana11&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
