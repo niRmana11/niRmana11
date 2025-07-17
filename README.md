@@ -18,17 +18,18 @@
 
 ---
 
-# 📊 GitHub Stats:
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=niRmana11&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub+Stats&title_color=FF3131&text_color=ffffff&icon_color=FF3131&bg_color=000000" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&layout=compact&langs_count=6&hide_border=false&title_color=FF3131&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
+</td></tr></table>  
 
-
+<br/>  
 
 ---
 
