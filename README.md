@@ -52,9 +52,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&langs_count=8&theme=transparent" alt=niRmana11 />
+<img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niRmana11&langs_count=8&theme=transparent" alt=niRmana11 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&locale=en&theme=transparent" alt="niRmana11" /></p>
+<p>&nbsp;<img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=niRmana11&show_icons=true&locale=en&theme=transparent" alt="niRmana11" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=transparent" alt="niRmana11" /></p>
 
