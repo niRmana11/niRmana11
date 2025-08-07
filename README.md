@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=800&background=00000000&lines=Hey,+I’m+Nirmana+Herath;Aspiring+Full+Stack+Developer;Crafting+Code+with+Passion!" alt="Typing SVG" />
 </p>
@@ -59,15 +60,16 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niRmana11&theme=transparent" alt="niRmana11" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+
 <a href="https://github.com/niRmana11">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niRmana11&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niRmana11&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niRmana11&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niRmana11&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niRmana11&theme=2077" height="180em" />
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" height="80%" />
+</div>
