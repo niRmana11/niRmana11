@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/NirmanaHerath" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="NirmanaHerath" height="30" width="40" /></a></p>
 
-<h3 align="center">Languages and Tools:</h3>
+### Languages and Tools
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -54,7 +54,7 @@
 
 
 
-<h3 align="center">Statistics</h3>
+### Statistics
 
 <a href="https://github.com/niRmana11">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niRmana11&theme=2077" height="180em" />
@@ -66,7 +66,8 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark"/>
 
-<h3 align="center">AWS Badges</h3>
+### AWS Badges
+
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101 (1)" src="https://github.com/user-attachments/assets/e70b8f9b-45b8-4a4b-a54e-611df6921018" />
 <img width="120" height="120" alt="aws-educate-getting-started-with-storage (1)" src="https://github.com/user-attachments/assets/17b3041a-8e09-4382-97fc-70c6b88be1fd" />
 
