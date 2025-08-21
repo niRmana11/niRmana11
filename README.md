@@ -66,5 +66,11 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark"/>
 
+<h3 align="center">AWS Badges</h3>
+<img width="120" height="120" alt="aws-educate-introduction-to-cloud-101" src="https://github.com/user-attachments/assets/a99a5b49-548b-4e87-aee2-8c379af705be" />
+<img width="120" height="120" alt="aws-educate-getting-started-with-storage" src="https://github.com/user-attachments/assets/044752ef-6110-4ff2-98fd-2fa5f3bc7b1b" />
+
+
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" height="80%" />
 </div>
