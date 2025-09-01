@@ -66,6 +66,7 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark"/>
 
+### AWS Badges
 
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101 (1)" src="https://github.com/user-attachments/assets/e70b8f9b-45b8-4a4b-a54e-611df6921018" />
 <img width="120" height="120" alt="aws-educate-getting-started-with-storage (1)" src="https://github.com/user-attachments/assets/17b3041a-8e09-4382-97fc-70c6b88be1fd" />
