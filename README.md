@@ -68,9 +68,9 @@
 
 ### AWS Badges
 
-<img width="120" height="120" alt="aws-educate-introduction-to-cloud-101 (1)" src="https://github.com/user-attachments/assets/e70b8f9b-45b8-4a4b-a54e-611df6921018" />
-<img width="120" height="120" alt="aws-educate-getting-started-with-storage (1)" src="https://github.com/user-attachments/assets/17b3041a-8e09-4382-97fc-70c6b88be1fd" />
-
+<img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg" src="https://github.com/user-attachments/assets/4bf4b4b7-1061-4537-96f6-7665cab53628" />
+<img width="120" height="120" alt="aws-educate-getting-started-with-storage-training-b" src="https://github.com/user-attachments/assets/58a0cf76-5e96-4a0a-bcfc-96429fb07920" />
+<img width="120" height="120" alt="aws-educate-getting-started-with-compute-training-b" src="https://github.com/user-attachments/assets/207bf3c5-577a-4bdd-ab31-a4dcb8fd7c36" />
 
 
 
