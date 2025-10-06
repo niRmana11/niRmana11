@@ -4,10 +4,10 @@
 </p>
 
 # 💫 About Me:
-🎓 BSc (Hons) in Information Technology @ SLIIT<br>  
+🎓 BSc (Hons) in Information Technology Specializing in Software Engineering @ SLIIT<br>  
 💻 I love building cool projects, exploring new tech, and solving real-world problems.<br>
-🌱 Currently exploring Java with Spring boot<br>
-🕹️ Curious about Game Development and interactive UI design<br>
+🌱 Currently exploring Flutter for Mobile App Development<br>
+🕹️ Curious about Game Development<br>
 💡 Passionate about coding and software development
 
 ---
