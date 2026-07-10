@@ -10,7 +10,7 @@
 
 🎓 BSc (Hons) in Information Technology Specializing in Software Engineering @ SLIIT  
 💻 I love building cool projects, exploring new tech, and solving real-world problems.  
-🌱 Currently exploring **Flutter** for Mobile App Development  
+🌱 Currently exploring ML & AI Development
 🕹️ Curious about **Game Development**  
 💡 Passionate about coding and software development
 
@@ -46,7 +46,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,js,java,py,cs,kotlin,html,css,react,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,androidstudio,figma,postman,unity,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=js,java,py,html,css,react,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,figma,postman,unity,git&perline=12" />
 </p>
 
 ---
