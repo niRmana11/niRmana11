@@ -4,27 +4,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=800&background=00000000&lines=Hey,+I'm+Nirmana+Herath;Aspiring+Full+Stack+Developer;Crafting+Code+with+Passion!" alt="Typing SVG" />
 </p>
 
----
 
-## 💫 About Me
 
-🎓 BSc (Hons) in Information Technology Specializing in Software Engineering @ SLIIT  
-💻 I love building cool projects, exploring new tech, and solving real-world problems.  
-🌱 Currently exploring ML & AI Development
-🕹️ Curious about **Game Development**  
-💡 Passionate about coding and software development
+## 👋 About Me
 
----
+🎓 Software Engineering Undergraduate @ SLIIT
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" height="100px" />
+💻 Turning ideas into real-world software through code
+🤖 Currently exploring AI & Machine Learning<br>
+🎮 Exploring Game Development for fun and creativity
+📚 Lifelong learner who enjoys discovering new technologies
+
+
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" height="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niRmana11&label=Profile%20views&color=0e75b6&style=flat" alt="niRmana11" />
 </p>
 
----
 
-## 🌐 Connect with Me
+
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/NirmanaHerath" target="_blank">
@@ -35,17 +38,17 @@
   </a>
 </p>
 
----
 
-## 🛠️ Languages and Tools
+
+## Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,py,html,css,react,tailwind,bootstrap,nodejs,express,spring,mongodb,mysql,figma,postman,unity,git&perline=12" />
 </p>
 
----
 
-## 📊 GitHub Statistics
+
+## GitHub Statistics
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niRmana11&theme=2077" height="180em" />
@@ -65,9 +68,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark" />
 </p>
 
----
 
-## ☁️ AWS Badges
+
+## AWS Badges
 
 <table align="center"><tr>
 <td align="center"><img width="120" height="120" alt="AWS Educate - Introduction to Cloud 101" src="https://github.com/user-attachments/assets/4bf4b4b7-1061-4537-96f6-7665cab53628" /></td>
@@ -75,7 +78,7 @@
 <td align="center"><img width="120" height="120" alt="AWS Educate - Getting Started with Compute" src="https://github.com/user-attachments/assets/207bf3c5-577a-4bdd-ab31-a4dcb8fd7c36" /></td>
 </tr></table>
 
----
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
