@@ -50,24 +50,8 @@
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niRmana11&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niRmana11&theme=2077" height="180em" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niRmana11&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niRmana11&theme=2077" height="180em" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niRmana11&theme=2077" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niRmana11&theme=react-dark" />
-</p>
-
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=niRmana11&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=radical)
 
 
 ## AWS Badges
