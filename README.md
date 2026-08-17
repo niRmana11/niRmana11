@@ -50,8 +50,16 @@
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=niRmana11&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=niRmana11&show_icons=true&theme=radical"
+    width="48%"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=niRmana11&layout=compact&theme=radical"
+    width="37%"
+  />
+</p>
 
 
 ## AWS Badges
